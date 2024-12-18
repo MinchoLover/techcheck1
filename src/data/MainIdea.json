@@ -1,0 +1,91 @@
+[
+  {
+    "name": "민찬이의 방학 라이프",
+    "children": [
+      {
+        "name": "롱커톤",
+        "children": [
+          {
+            "name": "1주차",
+            "children": [
+              { "name": "월요일", "children": [{ "name": "오전" }, { "name": "오후" }] },
+              { "name": "화요일", "children": [{ "name": "오전" }, { "name": "오후" }] },
+              { "name": "수요일", "children": [{ "name": "오전" }, { "name": "오후" }] },
+              { "name": "목요일", "children": [{ "name": "오전" }, { "name": "오후" }] },
+              { "name": "금요일", "children": [{ "name": "오전" }, { "name": "오후" }] }
+            ]
+          },
+          {
+            "name": "2주차",
+            "children": [
+              { "name": "월요일" },
+              { "name": "화요일" },
+              { "name": "수요일" },
+              { "name": "목요일" },
+              { "name": "금요일" }
+            ]
+          },
+          {
+            "name": "3주차",
+            "children": [
+              { "name": "월요일" },
+              { "name": "화요일" },
+              { "name": "수요일" },
+              { "name": "목요일" },
+              { "name": "금요일" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "밥",
+        "children": [
+          { 
+            "name": "점심",
+            "children": [
+              { "name": "한식" },
+              { "name": "중식" },
+              { "name": "일식" }
+            ]
+          },
+          { 
+            "name": "저녁",
+            "children": [
+              { "name": "피자" },
+              { "name": "햄버거" },
+              { "name": "파스타" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "운동",
+        "children": [
+          { "name": "헬스", "children": [{ "name": "상체" }, { "name": "하체" }] },
+          { "name": "달리기", "children": [{ "name": "아침" }, { "name": "저녁" }] }
+        ]
+      },
+      {
+        "name": "취미",
+        "children": [
+          { 
+            "name": "게임",
+            "children": [
+              { "name": "리그오브레전드" },
+              { "name": "배틀그라운드" },
+              { "name": "스타크래프트" }
+            ]
+          },
+          { 
+            "name": "독서",
+            "children": [
+              { "name": "소설" },
+              { "name": "비소설" },
+              { "name": "만화" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
